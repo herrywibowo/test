@@ -7,7 +7,8 @@ public class Main {
         System.out.println("H1");
         System.out.println("H3");
         System.out.println("H4");
-
-        System.out.println("H2");
+        System.out.println("H5");
+        System.out.println("H6");
+        System.out.println("H7");
     }
 }
